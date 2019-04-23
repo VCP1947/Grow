@@ -1,6 +1,0 @@
-
-4squid:S2386"Make this member "protected".(àÁ¿ä
-‹squid:S1319P"oThe type of the "list" object should be an interface such as "List" rather than the implementation "ArrayList".(²½ðˆýÿÿÿÿ
-isquid:S3776 "RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(üÐÌâ
-Žsquid:S1319"wThe type of the "sListForNeck" object should be an interface such as "List" rather than the implementation "ArrayList".(àÁ¿ä
-U"squid:SwitchLastCaseIsDefaultCheck*""Add a default case to this switch.(žžŒ¹ÿÿÿÿÿ

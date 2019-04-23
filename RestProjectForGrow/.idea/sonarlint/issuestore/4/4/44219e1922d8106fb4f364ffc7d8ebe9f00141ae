@@ -1,6 +1,0 @@
-
-P"squid:SwitchLastCaseIsDefaultCheck-""Add a default case to this switch.(ŸÂœ·
-hsquid:S1450"QRemove the "id" field and declare it as a local variable in the relevant methods.(ëÑ¼¯
-nsquid:S1450"RRemove the "chd" field and declare it as a local variable in the relevant methods.(Ü×Øùÿÿÿÿ
-jsquid:S1450"SRemove the "chd2" field and declare it as a local variable in the relevant methods.(‚¢áÕ
-Nsquid:S2589$"7Remove this expression which always evaluates to "true"(“¶Ö·
