@@ -1,0 +1,5 @@
+
+nsquid:S00116"WRename this field "kind_of_wood" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÖ‘Z
+Fsquid:S1068"0Remove this unused "kind_of_wood" private field.(ÑÖ‘Z
+msquid:S00116	"VRename this field "squ_of_lath" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÝÓ$
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•šŠ¢
